@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Main module for the project.
+A TO DO List program that is ran from the command line.
 """
 
 import sys
